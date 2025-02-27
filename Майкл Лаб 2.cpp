@@ -9,7 +9,7 @@ using namespace std;
 
 
 int main() {
-    /*int y; // Define y as an integer
+    int y; // Define y as an integer
     cout << "Enter a value for y: ";
     cin >> y;
 
@@ -40,9 +40,9 @@ int main() {
     cout << std::endl;
 
     return 0;
-    */
+    
 
-    cout << "====================================================================\n\n";
+    //cout << "====================================================================\n\n";
 
     //Question 1.2
 
